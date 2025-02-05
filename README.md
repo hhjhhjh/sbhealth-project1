@@ -19,9 +19,9 @@
 <br><hr>
 
 ### 👨‍👨팀 소개
-🙋🏼[황정현](https://github.com/hhjhhjh)
-🙋🏼[하승주](https://github.com/haseungju)  
-🙋🏼[박윤화](https://github.com/bagyun1) 
+🙋🏼[황정현](https://github.com/hhjhhjh): 데이터 분석
+🙋🏼[하승주](https://github.com/haseungju): 데이터 분석 
+🙋🏼[박윤화](https://github.com/bagyun1): 기획
  
 <br><hr>
 
@@ -67,7 +67,6 @@
 
 ### 📚Reference
 ##### - [데이터셋](https://www.kaggle.com/datasets/jijagallery/fitlife-health-and-fitness-tracking-dataset)
-###### - [대학생의 운동변화단계와 BMI, 신체활동량 및 운동결과기대 분석
-](https://www-dbpia-co-kr-ssl.libproxy.kyonggi.ac.kr/pdf/pdfAiChatView.do?nodeId=NODE07488602)
+###### - [대학생의 운동변화단계와 BMI, 신체활동량 및 운동결과기대 분석](https://www-dbpia-co-kr-ssl.libproxy.kyonggi.ac.kr/pdf/pdfAiChatView.do?nodeId=NODE07488602)
 
 
